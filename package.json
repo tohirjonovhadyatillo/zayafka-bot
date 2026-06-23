@@ -1,0 +1,12 @@
+{
+  "name": "telegram-join-request-bot",
+  "version": "1.0.0",
+  "description": "Telegram kanal join requestlarini avtomatik approve qiluvchi bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
